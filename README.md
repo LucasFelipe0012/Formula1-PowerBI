@@ -86,6 +86,12 @@ Os dados foram disponibilizados em arquivos CSV e posteriormente
 tratados e modelados no Power BI por meio do Power Query.
 
 > Fonte de referência: **Ergast F1 API / Jolpica F1 API**
+ 
+## 📋 Acompanhamento do Projeto
+
+> O desenvolvimento e a evolução das entregas podem ser acompanhados pelo Board do projeto no GitHub.
+
+> [Acessar Board do Projeto](https://github.com/users/LucasFelipe0012/projects/1)
 
 ##  Evolução do Projeto
 
