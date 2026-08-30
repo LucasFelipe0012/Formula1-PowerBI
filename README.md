@@ -43,6 +43,10 @@ A primeira entrega do projeto tem como foco a **análise de desempenho dos pilot
 
 Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados.
 
+### Vídeo de apresentação da AC1
+
+> [Assistir à apresentação da AC1 no YouTube](https://youtu.be/S9mqXA8AnW8)
+
 ##  Estrutura do Projeto
 
 ```text
