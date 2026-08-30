@@ -60,12 +60,10 @@ Formula1_PowerBI
 │   ├── results_history.csv
 │   └── results_qualy.csv
 │
-├── Imagens_Pilotos
-│
-├── Power BI
+├── PowerBI
 │   └── Formula1_PowerBI_C1.pbix
 │
-└── Documentação
+└── README.md
 ```
 
 ##  Tratamento dos Dados
