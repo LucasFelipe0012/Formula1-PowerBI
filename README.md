@@ -47,6 +47,33 @@ Os indicadores e gráficos são atualizados dinamicamente conforme os filtros se
 
 > [Assistir à apresentação da AC1 no YouTube](https://youtu.be/S9mqXA8AnW8)
 
+##  C2 — Resultados das Corridas
+
+A segunda entrega do projeto tem como foco a **análise das corridas de Fórmula 1 por temporada e circuito**.
+
+A página foi desenvolvida para permitir a seleção dinâmica do circuito e da temporada, apresentando indicadores relacionados à participação nas corridas e informações visuais sobre cada pista.
+
+### Principais indicadores
+
+* Corridas por temporada
+* Pilotos participantes por temporada
+* Equipes participantes por temporada
+* Acidentes por temporada
+
+### Filtros disponíveis
+
+* Temporada
+* Circuito
+
+### Recursos visuais
+
+* Traçado do circuito atualizado dinamicamente conforme a seleção
+* Localização do circuito utilizando latitude e longitude
+* Visualização geográfica por meio do Azure Maps
+* Gráfico de quantidade de corridas por temporada
+
+Os indicadores, o traçado e o mapa são atualizados dinamicamente conforme os filtros aplicados no relatório.
+
 ##  Estrutura do Projeto
 
 ```text
@@ -98,7 +125,7 @@ tratados e modelados no Power BI por meio do Power Query.
 ##  Evolução do Projeto
 
 * [x] C1 — Análise do Campeonato de Pilotos
-* [ ] C2 — Próxima análise
+* [x] C2 — Resultados das Corridas
 * [ ] C3 — Próxima análise
 * [ ] Prova — Análise final
 
