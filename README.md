@@ -80,6 +80,8 @@ Os indicadores, o traçado e o mapa são atualizados dinamicamente conforme os f
 Formula1_PowerBI
 │
 ├── Dados
+│   ├── URLs Mapas
+│   │   └── Mapa_Circuitos_Imagens.xlsx
 │   ├── circuits.csv
 │   ├── constructor_standings.csv
 │   ├── constructors.csv
@@ -92,7 +94,7 @@ Formula1_PowerBI
 │   └── results_qualy.csv
 │
 ├── PowerBI
-│   └── Formula1_PowerBI_C1.pbix
+│   └── Formula1_PowerBI_AC2.pbix
 │
 └── README.md
 ```
