@@ -74,6 +74,10 @@ A página foi desenvolvida para permitir a seleção dinâmica do circuito e da 
 
 Os indicadores, o traçado e o mapa são atualizados dinamicamente conforme os filtros aplicados no relatório.
 
+### Vídeo de apresentação da AC2
+
+> [Assistir à apresentação da AC2 no YouTube](https://youtu.be/_GnaTYlBLLQ)
+
 ##  Estrutura do Projeto
 
 ```text
