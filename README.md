@@ -78,6 +78,21 @@ Os indicadores, o traçado e o mapa são atualizados dinamicamente conforme os f
 
 > [Assistir à apresentação da AC2 no YouTube](https://youtu.be/_GnaTYlBLLQ)
 
+##  AC3 — Análise de Equipes
+
+A terceira entrega apresenta uma página de análise do desempenho histórico das equipes de Fórmula 1, com indicadores, comparações e filtros interativos.
+
+### Funcionalidades apresentadas
+
+* Seleção de temporada e equipe
+* Indicadores de corridas, vitórias e pódios
+* Gráfico de evolução de pontos, vitórias e pódios por temporada
+* Tabela comparativa com equipe, nacionalidade, corridas, classificação por pontos, pontuação, vitórias e pódios
+
+### Vídeo de apresentação da AC3
+
+> Link do vídeo a ser incluído após a publicação no YouTube.
+
 ##  Estrutura do Projeto
 
 ```text
@@ -133,7 +148,7 @@ tratados e modelados no Power BI por meio do Power Query.
 
 * [x] C1 — Análise do Campeonato de Pilotos
 * [x] C2 — Resultados das Corridas
-* [ ] C3 — Próxima análise
+* [x] C3 — Análise de Equipes
 * [ ] Prova — Análise final
 
 ## 👨‍💻 Autor
