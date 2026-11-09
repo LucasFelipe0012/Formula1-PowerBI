@@ -90,6 +90,10 @@ A terceira entrega apresenta uma página de análise do desempenho histórico da
 * Tabela comparativa com equipe, nacionalidade, corridas, classificação por pontos, pontuação, vitórias e pódios
 
 
+### Vídeo de apresentação da AC3
+
+> [Assistir à apresentação da AC3 no YouTube](https://youtu.be/ZQU0hGbQb7U)
+
 ##  Estrutura do Projeto
 
 ```text
