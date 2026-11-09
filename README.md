@@ -89,9 +89,6 @@ A terceira entrega apresenta uma página de análise do desempenho histórico da
 * Gráfico de evolução de pontos, vitórias e pódios por temporada
 * Tabela comparativa com equipe, nacionalidade, corridas, classificação por pontos, pontuação, vitórias e pódios
 
-### Vídeo de apresentação da AC3
-
-> Link do vídeo a ser incluído após a publicação no YouTube.
 
 ##  Estrutura do Projeto
 
