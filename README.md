@@ -104,7 +104,7 @@ A versão final consolida e aprimora as análises desenvolvidas nas entregas ant
 * Tooltip dinâmico de circuitos com traçado da pista e **Top 5 equipes vencedoras**
 * Página **Equipes** com rankings de equipes com mais vitórias em Grand Prix e mais pódios
 * Página **Pilotos** com ranking dos pilotos com mais vitórias e mais pódios
-* Tooltip dinâmico de pilotos com foto, total de corridas, pódios e velocidade média
+* Tooltip dinâmico de pilotos com foto, total de corridas, pódios e velocidade máxima
 * Filtros por temporada e demais interações mantidos entre os visuais
 * Padronização visual das páginas para a apresentação final
 
@@ -135,7 +135,7 @@ Formula1_PowerBI
 │   ├── Formula1_PowerBI_C1.pbix
 │   ├── Formula1_PowerBI_AC2.pbix
 │   ├── Formula1_PowerBI_AC3.pbix
-│   └── Formula1_PowerBI_FINAL.pbix
+│   └── BI_Formula1_Final.pbix
 │
 └── README.md
 ```
