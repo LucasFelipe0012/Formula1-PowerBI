@@ -94,6 +94,22 @@ A terceira entrega apresenta uma página de análise do desempenho histórico da
 
 > [Assistir à apresentação da AC3 no YouTube](https://youtu.be/ZQU0hGbQb7U)
 
+##  Prova — Versão Final
+
+A versão final consolida e aprimora as análises desenvolvidas nas entregas anteriores, com foco em acabamento visual, novos rankings e recursos interativos.
+
+### Principais melhorias
+
+* Página **Circuitos** com ranking de pistas, corridas por país, mapa geográfico e tabela detalhada
+* Tooltip dinâmico de circuitos com traçado da pista e **Top 5 equipes vencedoras**
+* Página **Equipes** com rankings de equipes com mais vitórias em Grand Prix e mais pódios
+* Página **Pilotos** com ranking dos pilotos com mais vitórias e mais pódios
+* Tooltip dinâmico de pilotos com foto, total de corridas, pódios e velocidade média
+* Filtros por temporada e demais interações mantidos entre os visuais
+* Padronização visual das páginas para a apresentação final
+
+A versão final mantém o histórico das entregas C1, AC2 e AC3 no repositório.
+
 ##  Estrutura do Projeto
 
 ```text
@@ -102,6 +118,8 @@ Formula1_PowerBI
 ├── Dados
 │   ├── URLs Mapas
 │   │   └── Mapa_Circuitos_Imagens.xlsx
+│   ├── URLs Pilotos
+│   │   └── Mapa_Pilotos_Imagens.xlsx
 │   ├── circuits.csv
 │   ├── constructor_standings.csv
 │   ├── constructors.csv
@@ -115,7 +133,9 @@ Formula1_PowerBI
 │
 ├── PowerBI
 │   ├── Formula1_PowerBI_C1.pbix
-│   └── Formula1_PowerBI_AC2.pbix
+│   ├── Formula1_PowerBI_AC2.pbix
+│   ├── Formula1_PowerBI_AC3.pbix
+│   └── Formula1_PowerBI_FINAL.pbix
 │
 └── README.md
 ```
@@ -150,7 +170,7 @@ tratados e modelados no Power BI por meio do Power Query.
 * [x] C1 — Análise do Campeonato de Pilotos
 * [x] C2 — Resultados das Corridas
 * [x] C3 — Análise de Equipes
-* [ ] Prova — Análise final
+* [x] Prova — Versão final do dashboard
 
 ## 👨‍💻 Autor
 
