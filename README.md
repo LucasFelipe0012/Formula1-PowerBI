@@ -110,6 +110,10 @@ A versão final consolida e aprimora as análises desenvolvidas nas entregas ant
 
 A versão final mantém o histórico das entregas C1, AC2 e AC3 no repositório.
 
+### Vídeo de apresentação da versão final
+
+> [Assistir à apresentação final no YouTube](https://youtu.be/k1NsCI0q5fE)
+
 ##  Estrutura do Projeto
 
 ```text
